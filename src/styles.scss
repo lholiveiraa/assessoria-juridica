@@ -1,0 +1,48 @@
+
+.navbar-brand img { 
+    height: 80px;
+    width: 80px;
+}
+
+a:hover, a:focus, a:active {
+    color: #ffd001!important;
+}
+
+.e-logo {
+    color: #ffd001!important;
+}
+
+.btn-primary, a:visited {
+    background-color: #242425!important;
+    border-color: #242425!important;
+    box-shadow: none!important;
+    
+}
+
+.btn-primary:hover {
+    background-color: #333333!important;
+    border-color: #333333!important;
+    box-shadow: none!important;
+    color: #ffd001!important;
+}
+
+.btn-primary:focus, .btn-primary:active, .btn-primary:visited, .btn-primary:link {
+    background-color: #333333!important;
+    border-color: #333333!important;
+    box-shadow: none!important;
+}
+
+
+.border-primary {
+    border-color: #ffd801!important;
+}
+
+.icon-secondary {
+    background-color: #FFF;
+    color: #FFF!important;
+}
+
+.icon-secondary:hover {
+    background-color: #ffd801!important;
+    color: #ffd801!important;
+}
